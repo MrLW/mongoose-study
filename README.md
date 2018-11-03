@@ -1,2 +1,1 @@
 # mongoose-study
-mongoose-study
